@@ -1,0 +1,12 @@
+.python-version
+.idea/
+
+*.json
+*.Identifier
+
+scratch/
+__pycache__/
+
+test.py
+core.py
+.env
